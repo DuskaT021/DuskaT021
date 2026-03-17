@@ -1,19 +1,19 @@
 ## Hi there 👋
 
-I'm Dušana, a **Senior QA Engineer**
+I'm Dusana, a **Senior QA Engineer** — but the last 3 years have looked more like engineering.
 
-I work mostly with **Playwright**, **React**, **React Native**, and **TypeScript** — writing tests, building small apps, and exploring the full stack from UI to API.
+I architected end-to-end test infrastructure for a live Bitcoin wallet across web extension, mobile, and dapps — used by real people moving real money. I write React and React Native in production. I catch bugs before they become incidents.
 
-I also use **Expo** for mobile, **GitHub Actions** for CI/CD, and **Docker** for running test environments.
+I work best where QA and engineering blur — fast teams that care about what ships.
 
 ---
 
 ### 🧪 Tools & Tech
 
-* **Testing:** Playwright, Pytest, PHPUnit, WebdriverIO, CodeceptJS, Newman, MailSlurp
+* **Testing:** Playwright, Cypress, Pytest, PHPUnit, WebdriverIO, CodeceptJS, Newman, MailSlurp
 * **Frontend:** React, React Native (Expo)
 * **Languages:** TypeScript / JavaScript, Python, PHP, Go
-* **CI/CD & Tooling:** GitHub Actions, Bitrise, CircleCI, Docker, ESLint, Prettier
+* **CI/CD & Tooling:** GitHub Actions, CircleCI, Docker, ESLint, Prettier
 
 ---
 
@@ -22,6 +22,7 @@ I also use **Expo** for mobile, **GitHub Actions** for CI/CD, and **Docker** for
 At **[Xverse](https://www.xverse.app/)** ([@secretkeylabs](https://github.com/secretkeylabs)) I owned quality end-to-end for a security-critical blockchain product: designed test infrastructure, shipped features, mentored engineers, and helped maintain 99.9% uptime.
 
 * 🌐 [`xverse-web-extension`](https://github.com/secretkeylabs/xverse-web-extension) — Bitcoin Web3 Chrome extension wallet in **TypeScript + React**, supporting BTC, Stacks, Runes, Ordinals, and cross-chain swaps
+* 🗂️ **xverse portfolio web app** — Full web product at [portfolio.xverse.app](https://portfolio.xverse.app) covering Portfolio, Swap, Satsdaq, Earn (Stake BTC / Stack STX), Mint Runes, Lightning, and more
 * 📱 **xverse-app** — The Xverse mobile wallet in **React Native**, available on iOS and Android
 * 🧱 [`xverse-core`](https://github.com/secretkeylabs/xverse-core) — Core TypeScript library powering the Xverse wallet: API clients, transaction logic, wallet types, and multi-network support
 
@@ -44,17 +45,6 @@ At **[Xverse](https://www.xverse.app/)** ([@secretkeylabs](https://github.com/se
 * 🧪 I believe good tests are just as important as good code — clear, reliable, and easy to maintain
 * 🌍 Contributor to open source via Zero to Mastery projects
 * 🧱 I like building things that are simple, useful, and easy to understand
-<!--
-**DuskaT021/DuskaT021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
