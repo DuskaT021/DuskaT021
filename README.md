@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Dusana, a **Senior QA Engineer** — but the last 3 years have looked more like engineering.
+I'm Dušana, a **Senior QA Engineer** — but the last 3 years have looked more like engineering.
 
 I architected end-to-end test infrastructure for a live Bitcoin wallet across web extension, mobile, and dapps — used by real people moving real money. I write React and React Native in production. I catch bugs before they become incidents.
 
