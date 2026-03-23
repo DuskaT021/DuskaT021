@@ -30,6 +30,7 @@ At **[Xverse](https://www.xverse.app/)** ([@secretkeylabs](https://github.com/se
 
 ### 🗂️ Things I've Built & Explored
 
+* 🔐 [`ai-security-research`](https://github.com/DuskaT021/ai-security-research) — Mapping attack vectors introduced by AI-assisted development: secret detection, package hallucination, prompt injection, and more
 * 🔐 [`tokens-api-testing`](https://github.com/dus87/tokens-api-testing) — Comprehensive Postman/Newman test suite for the `/tokens` endpoint: functional, security, performance, and data validation tests, with GitHub Actions CI
 * 🐾 [`Adopt_me`](https://github.com/DuskaT021/Adopt_me) — A React pet adoption app, built while mastering hooks and custom hooks
 * 📱 [`AwesomeProjectExpo`](https://github.com/DuskaT021/AwesomeProjectExpo) — A React Native mobile app built with Expo
