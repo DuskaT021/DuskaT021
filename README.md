@@ -2,7 +2,7 @@
 
 I'm Dušana, a **Senior QA Engineer** — but the last 3 years have looked more like engineering.
 
-I architected end-to-end test infrastructure for a live Bitcoin wallet across web extension, mobile, and dapps — used by real people moving real money. I write React and React Native in production. I catch bugs before they become incidents.
+I architected end-to-end test infrastructure for a live Bitcoin wallet across web extension, mobile, and dapps - used by real people moving real money. I write React and React Native in production. I catch bugs before they become incidents.
 
 I work best where QA and engineering blur — fast teams that care about what ships.
 
@@ -10,9 +10,9 @@ I work best where QA and engineering blur — fast teams that care about what sh
 
 ### 🧪 Tools & Tech
 
-* **Testing:** Playwright, Cypress, Pytest, PHPUnit, WebdriverIO, CodeceptJS, Newman, MailSlurp
+* **Testing:** Playwright, Maestro.dev, Newman, MailSlurp
 * **Frontend:** React, React Native (Expo)
-* **Languages:** TypeScript / JavaScript, Python, PHP, Go
+* **Languages:** TypeScript / JavaScript, Python
 * **CI/CD & Tooling:** GitHub Actions, CircleCI, Docker, ESLint, Prettier
 
 ---
@@ -29,6 +29,8 @@ At **[Xverse](https://www.xverse.app/)** ([@secretkeylabs](https://github.com/se
 ---
 
 ### 🗂️ Things I've Built & Explored
+
+* 📱 [`duolingo-maestro-e2e`](https://github.com/DuskaT021/duolingo-maestro-e2e) — Mobile E2E framework built with Maestro: modular onboarding subflows, debug wrapper flows, resilient assertions for A/B UI copy, hook-based teardown, and GitHub Actions smoke validation with artifacts.
 
 * 🔐 [`ai-security-research`](https://github.com/DuskaT021/ai-security-research) — Mapping attack vectors introduced by AI-assisted development: secret detection, package hallucination, prompt injection, and more
 * 🔐 [`tokens-api-testing`](https://github.com/dus87/tokens-api-testing) — Comprehensive Postman/Newman test suite for the `/tokens` endpoint: functional, security, performance, and data validation tests, with GitHub Actions CI
