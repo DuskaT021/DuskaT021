@@ -49,6 +49,7 @@ At **[Xverse](https://www.xverse.app/)** ([@secretkeylabs](https://github.com/se
 * 🌍 Contributor to open source via Zero to Mastery projects
 * 🧱 I like building things that are simple, useful, and easy to understand
 * 📚 Curently reading [`The Effective Software Engineer`](https://learning.oreilly.com/library/view/the-effective-software/9798341638167/) by Addy Osmani
+* 🎧 Canceling all the noise in tech with [`@pragmaticengineer`](https://www.youtube.com/@pragmaticengineer)
 
 
 
