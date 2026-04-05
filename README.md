@@ -48,6 +48,7 @@ At **[Xverse](https://www.xverse.app/)** ([@secretkeylabs](https://github.com/se
 * 🧪 I believe good tests are just as important as good code — clear, reliable, and easy to maintain
 * 🌍 Contributor to open source via Zero to Mastery projects
 * 🧱 I like building things that are simple, useful, and easy to understand
+* 📚 Curently reading [`The Effective Software Engineer`](https://learning.oreilly.com/library/view/the-effective-software/9798341638167/) by Addy Osmani
 
 
 
