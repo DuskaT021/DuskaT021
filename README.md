@@ -33,7 +33,7 @@ At **[Xverse](https://www.xverse.app/)** ([@secretkeylabs](https://github.com/se
 * 📱 [`duolingo-maestro-e2e`](https://github.com/DuskaT021/duolingo-maestro-e2e) — Mobile E2E framework built with Maestro: modular onboarding subflows, debug wrapper flows, resilient assertions for A/B UI copy, hook-based teardown, and GitHub Actions smoke validation with artifacts.
 
 * 🔐 [`ai-security-research`](https://github.com/DuskaT021/ai-security-research) — Mapping attack vectors introduced by AI-assisted development: secret detection, package hallucination, prompt injection, and more
-* 🔐 [`tokens-api-testing`](https://github.com/dus87/tokens-api-testing) — Comprehensive Postman/Newman test suite for the `/tokens` endpoint: functional, security, performance, and data validation tests, with GitHub Actions CI
+* 🔐 [`lifi-api-test-suite`](https://github.com/DuskaT021/lifi-api-test-suite) - API test suite for LI.FI — Playwright + TypeScript, Postman, MCP integration, GitHub Actions CI
 * 🐾 [`Adopt_me`](https://github.com/DuskaT021/Adopt_me) — A React pet adoption app, built while mastering hooks and custom hooks
 * 📱 [`AwesomeProjectExpo`](https://github.com/DuskaT021/AwesomeProjectExpo) — A React Native mobile app built with Expo
 * ✅ [`udemy-cypress-course`](https://github.com/DuskaT021/udemy-cypress-course) — Deep dive into Cypress: custom commands, plugins, tasks, and real-world test patterns
